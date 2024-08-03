@@ -2,35 +2,6 @@
 This repository is only used to make searching for official items easier from certain servers.
 
 It contains extracted and decoded .lub files from official RO Servers.
-A pre-packed GRF with sprite and texture files from each server can be found here below.
-
-As of 11th April 2023, I took the time and revamped my way of merging GRF's (took me 2 days).
-I will only provide one GRF (official_data.grf), which contains every missing sprite/texture file based on kRO GRF:
- * [Merged GRF](https://www.mediafire.com/file/qas1fgic28zs9qx/official_data.rar/file)
-
-<details>
-<summary>Merged Folders</summary>
-
-* sprite   
-  * ¸ó½ºÅÍ
-  * ·Îºê
-  * ¾ÆÀÌÅÛ
-  * ¾Ç¼¼»ç¸®
-  * ¹æÆÐ
-  * ÀÎ°£Á·
-  * ÀÌÆÑÆ®
-  * npc
-
-* texture
-  * À¯ÀúÀÎÅÍÆäÀÌ½º
-    * cardbmp
-    * collection
-    * illust
-    * item
- 
-   * effect
- 
-</details>
  
 ### Missing Sprite Files
 As I'm still missing entries in the itemInfo_EN.lua file, there might still be a lot missing.   
